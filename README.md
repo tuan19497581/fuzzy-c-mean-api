@@ -59,4 +59,4 @@ Bảng:
 
 # Set environment
 
-- Powershell: `$env:DATABASE_URL = "postgresql://postgres:lgAjlshvYYUThoKXphSO@containers-us-west-82.railway.app:6254/railway"`
+- Powershell: `$env:DATABASE_URL = "postgresql://postgres:cYD1hTrxDkfSRInqtXSN@containers-us-west-84.railway.app:6113/railway"`
